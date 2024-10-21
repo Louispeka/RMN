@@ -1,0 +1,198 @@
+= STORYBOARD 
+
+directives:
+
+* travelling tout le long de la vidéo
+
+* protagoniste toujours en mouvement (marche de face)
+
+* Moodboard
+
+timing
+
+plan 1: rue / boulangerie / rue (00:00 -00:32)
+
+plan 2: Avenue de Floha   (00:32 - 1:05)
+
+plan 3: Pont Césarine  (1:05 - 1:38)
+
+plan 4: vers le studio (1:38 - 2:15)
+
+plan 5: dans le studio fin (2:15 - 2:44)
+
+== CLIP 
+
+=== INTRO (00:00 - 00:15)
+
+La caméra s'ouvre brusquement sur un travelling leger face au mur avec deux personnes en train de discuter, se bousculer legerement
+
+La camera se deplace dans le rue tout en fixant la meme trajectoire laissant apparaitre le titre du son sur le mur ainsi que les blazes 
+
+un jeu d'echec posé sur une cagette ou sur le sol au début du clip 
+
+Intégrer le fou au début en premier plan, dans la profondeur de champ (légèrement flou)
+
+(00:06)
+
+(Check ça, check ça) 
+
+Premières paroles en back
+
+apparition de la boulangerie avec le protagoniste qui sort brusquement du batiment en lansant un tablier (wn tablier VPV) en direction de la boulangerie
+
+(00:15)
+
+== Premier Refrain (00:15 - 00:32)
+
+le protagoniste marche seul dans la rue, gestu
+
+transition:
+
+un poteau qui signe la fin de la premiere bande
+
+== Premier couplet (00:32 - 01:05)
+
+lieu du chemin du terril: Avenue de Floha 
+
+
+Plan 2 reprise à un poteau pour la suite de la marche du protagoniste accompagné d'un ou deux membres
+
+vue sur les terrils avec voiture garée, 2 personnes en train de se battre une personne qui regarde
+
+le protagoniste et les membres continuent d'avancer tout droit
+
+une ou deux personnes courent dans le sens inverse du groupe du protagoniste, faire avancer deux personnes en tenue de travail que le protagoniste doit éviter, se retournant avec agacement
+
+image::1.jfif[]
+
+image::2.jfif[]
+
+== refrain (01:05 - 01:37)
+
+transition ?
+
+plan 3
+
+Mémorial de Vimy : Scrap - Pont Césarine, Lens,
+
+gars louches qui passent, proposent de la weed/autre chose au personnage, léger arrêt de la caméra le temps de l'interaction
+
+le protagoniste marche dans le même mood quelques personnes en plus dans le groupe
+
+plus aggressif
+
+== Deuxième couplet( 01:37 - 2:44)
+
+transition ?
+
+le protagoniste marche toujours dans le même sens avec une équipe plus importante qui vont appuyer les backs
+
+(2:15)
+
+plan 5:
+
+sur l'entrée en studio, le protagoniste marche vers la salle d'enregistrement, entre avec ses potes, fondu au noir, fin. 
+
+Intégrer le Roi a la fin, en premier plan aussi, dans la profondeur de champ, potentiellement finir dessus?
+
+== CHOIX CUT
+
+== INTRO (00:00 - 00:15)
+
+(00:00)
+
+* la caméra s'ouvre brusquement sur un travelling
+
+Le clip commence par un B-Roll pour afficher les blazes/titres, on voit les rues à l'extérieur de la boulangerie,
+
+* la caméra s'approche 
+
+(00:06)
+
+(Check ça, check ça) 
+
+Premières paroles en back, montrer la boulangerie et l'intérieur, l'employé tend une /pièce d'échec/ au protagoniste
+
+* gros plan dessus (zoom in) 
+
+
+== Premier Refrain (00:15 - 00:32)
+
+Le Zoom-In s'inverse, on voit le protagoniste se révéler, la pièce d'échec entre les doigts
+
+/interaction avec la pièce/ 
+
+(Ils disent ce qu'ils pensent, mais j'ai pas l'droit à l'échec)
+
+et continue le refrain en sortant de la boulangerie, gestu pour la transition 
+
+== Premier couplet (00:32 - 01:21)
+
+=== deuxième lieu 
+
+* plan fixe facecam
+
+se concentrer sur la gestuelle, transition sur le refrain sans fioritures 
+
+==== choix deuxième lieu
+
+==== Chemin de la Cheminée 
+
+le protagoniste est posé sur le bloc avec les terrils en fond 
+
+mood solitaire
+
+===== Mémorial de Vimy
+
+* contre plongée vue sur les tours 
+
+le protagoniste est sur les marches debout gestu aggressive 
+
+mood imposant
+
+== Deuxième refrain (01:21 - 01:37)
+
+* plan fixe 
+
+toujours dans le deuxième lieu, gestu et transition sur la gestu à la fin 
+
+== Deuxième couplet 
+
+* caméra en mouvement qui suit le protagoniste de face et qui dezomme laissant apparaitre groupe
+
+(Route de Béthune, vers le studio)
+
+le protagoniste est accompagné pour les backs, on est dans les rues de Lens marchant vers le studio
+
+
+== Fin du couplet #1
+
+sur l'entrée en studio, le protagoniste marche vers la salle d'enregistrement, entre avec ses potes, fondu au noir, fin. (01:37 - 02:44)
+
+
+== Fin du couplet #2
+
+Aller sur un terril, finir le clip en haut du pic, surplombant Lens et les alentours (thématique avec "Si y'a pas de marches la montagne je l'escalade" juste avant, possibilité de nécessiter un drone)
+
+
+== reférences et choix des objets 
+
+=== boulagenrie 
+
+=== pièce jeu d'echec
+
+https://writtenredactedby.wordpress.com/2020/10/03/la-symbolique-des-pieces-dechec/
+
+=== Fou
+
+regarde la pièce et la mets dans sa poche 
+
+?appuyer sur la folie avec des choses qui n'ont pas de logique (vendeur qui donne un object random à un client en fond) (mouvement général des clients comme engueulades ou pleurs)?
+
+va avec le choix solitaire
+
+=== Roi 
+
+laisse tomber la pièce par terre pour appuyé la puissance / liberté / pas de n1 
+
+va avec le choix Vimy 
