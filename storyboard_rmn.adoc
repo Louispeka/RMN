@@ -67,7 +67,7 @@ le protagoniste et les membres continuent d'avancer tout droit
 
 une ou deux personnes courent dans le sens inverse du groupe du protagoniste, faire avancer deux personnes en tenue de travail que le protagoniste doit éviter, se retournant avec agacement
 
-image::1.floha.png[]
+image::floha.png[]
 
 == refrain (01:05 - 01:37)
 
