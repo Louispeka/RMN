@@ -22,6 +22,10 @@ plan 5: dans le studio fin (2:15 - 2:44)
 
 == CLIP 
 
+l'idee est de suivre le protagoniste pendant son periple
+
+il quitte son taff ou se fait virer, avance seul puis fur et à mesure son equipe s'aggrandit.
+
 === INTRO (00:00 - 00:15)
 
 La caméra s'ouvre brusquement sur un travelling leger face au mur avec deux personnes en train de discuter, se bousculer legerement
@@ -63,9 +67,7 @@ le protagoniste et les membres continuent d'avancer tout droit
 
 une ou deux personnes courent dans le sens inverse du groupe du protagoniste, faire avancer deux personnes en tenue de travail que le protagoniste doit éviter, se retournant avec agacement
 
-image::1.jfif[]
-
-image::2.jfif[]
+image::1.floha.png[]
 
 == refrain (01:05 - 01:37)
 
@@ -81,6 +83,8 @@ le protagoniste marche dans le même mood quelques personnes en plus dans le gro
 
 plus aggressif
 
+image::pont.jpg[]
+
 == Deuxième couplet( 01:37 - 2:44)
 
 transition ?
@@ -94,6 +98,9 @@ plan 5:
 sur l'entrée en studio, le protagoniste marche vers la salle d'enregistrement, entre avec ses potes, fondu au noir, fin. 
 
 Intégrer le Roi a la fin, en premier plan aussi, dans la profondeur de champ, potentiellement finir dessus?
+
+
+FIN DU STORYBOARD
 
 == CHOIX CUT
 
